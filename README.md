@@ -1,9 +1,14 @@
+ <img align="right" alt="GIF" src="https://github.com/Anthima/Anthima/blob/main/character-typing.gif?raw=true" width="500" height="320" />
+
 ### Hey! 👋
+<hr style="border:2px solid blue"> </hr>
+
+
 
 ### ABOUT ME
 I am a tenacious person. My passion lies in Networking, Design, an open-source contributor and exploring new skills.I am presently pursuing Btech in Computer Science Engineering(SCSE) From Vellore Institute of Technology, Bhopal.
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Reactjs
