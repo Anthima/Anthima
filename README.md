@@ -20,7 +20,7 @@ I am a *tenacious person*. My passion lies in Networking, Design, an open-source
                                            
 ### Languages and Tools:
 
- <p align ="left"><img src="https://github.com/Anthima/Anthima/blob/main/python.png?raw=true" width="20" height="20" /></p>
+ <p align ="left"><img src="https://github.com/Anthima/Anthima/blob/main/icons8-python.svg?raw=true" width="20" height="20" /></p>
 
 
 
