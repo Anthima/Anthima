@@ -10,7 +10,7 @@ I am a *tenacious person*. My passion lies in Networking, Design, an open-source
  <!-- <h3 align="center"> A passionate Data Scientist from India.</h3><br>--> 
 
  
-[![Linkedin Badge](https://img.shields.io/badge/-anthima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthima-singh/)](https://www.linkedin.com/in/anthima-singh//) [![Medium Badge](https://img.shields.io/badge/-@athima-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://anthima302.medium.com//)](https://medium.com/@athima302)
+[![Linkedin Badge](https://img.shields.io/badge/-anthima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthima-singh/)](https://www.linkedin.com/in/anthima-singh//) [![Medium Badge](https://img.shields.io/badge/-@athima302-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://anthima302.medium.com//)](https://medium.com/@athima302)
 </br>
 [![Gmail Badge](https://img.shields.io/badge/-anthima302@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthima302@gmail.com)](mailto:athima302@gmail.com)
 
