@@ -20,13 +20,7 @@ I am a *tenacious person*. My passion lies in Networking, Design, an open-source
                                            
 ### Languages and Tools:
 
-<p align="left"><img src="https://github.com/Anthima/Anthima/blob/master/java.png"/> <img src="https://github.com/Anthima/Anthima/blob/master/python.png"/> 
- </p>
- 
- <details>
-  <summary>:zap: Tab here :P</summary>
-<p align="center"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/tenor.gif" width="50"></p> <br>
-</details>  
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+ <p align ="left"><img src="https://github.com/Anthima/Anthima/blob/main/python.png?raw=true" width="20" height="20" /></p>
+
 
 
